@@ -24,14 +24,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  Contributors     : "Théodore Cherrière
-                      Maya Hage Hassan"
-  pronouns         : # example: "she/her"  
+  Contributors     : "Maya Hage Hassan
+                      Théodore Cherrière"
+  # pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Paris"
+  employer         : "CentraleSupélec"
+  uri              : https://www.centralesupelec.fr/chercheurs/maya-hage-hassan
+  email            : "maya.hage-hassan@centralesupelec.fr, theodore.cherriere@centralesupelec.fr" 
 
   # Academic websites
   academia         : # URL
